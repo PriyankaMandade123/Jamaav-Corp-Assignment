@@ -137,6 +137,23 @@ l.	And Paste It in db.js replace password with password you set previously in 4.
  
  
 7.	Now Your Project Will Start In Your Default Web Browser
+8.	Homepage
+9.	<img width="1912" height="1008" alt="image" src="https://github.com/user-attachments/assets/aa805b48-9429-4f8b-85d7-146a5a6a9286" />
+<img width="1902" height="1012" alt="image" src="https://github.com/user-attachments/assets/dc914c21-dbb7-4fa7-bf75-0f12323bdffa" />
+<img width="1897" height="1078" alt="image" src="https://github.com/user-attachments/assets/fbb67881-1221-47f1-8ccd-79916c35a2b1" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/ade552f1-defe-46e7-815a-c4012347a817" />
+<img width="1862" height="931" alt="image" src="https://github.com/user-attachments/assets/118e0709-b4f4-49fe-9122-30ce8acaa5ce" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b02ed8e4-3447-474f-9963-580bdeb7cc4f" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/e957f589-50c6-4acd-8fee-e57490782512" />
+
+<img width="1918" height="1042" alt="image" src="https://github.com/user-attachments/assets/f3c3b4ad-8a79-423f-8118-70b8f411f6a1" />
+
+
+
+
+
+
+
 
 
 
